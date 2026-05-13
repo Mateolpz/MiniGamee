@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: a31d429e2f883bc478eda905fa2a4400
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 406, y: 62, z: 466, w: 162}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 947
+        width: 246
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196dcc937233d994aafb7ce34a69c984
+      internalID: 1320848028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1067
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c90cd414f547947b74ec4216d79646
+      internalID: 1975285097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1091
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3bdd762aadf7845a9936aebb2e2913
+      internalID: 1481516372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 947
+        width: 246
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099a4fc53fd053240b5f97c2a78a2697
+      internalID: -1395731215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_4
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1067
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad88e39ea9a7f14a96655a909cc7589
+      internalID: 1009701181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_5
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1091
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438646c07fd940d428da97588f0f58b7
+      internalID: -1363165495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1009
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce8539bf0254ad4194a0ac61dedad52
+      internalID: -1244187178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1047
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631e70720a0ef164fba14cda1eacc9d0
+      internalID: -1697556860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_8
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1009
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8493688c8b4eb4199936e64b4a4054
+      internalID: 1042137484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_9
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1047
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fddbc678c9a834eba9726e1478db27
+      internalID: 567608627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 72
+        width: 382
+        height: 962
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 58, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a76a0989a6234bba1a0c9ba923774
+      internalID: 162859961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_11
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 949
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d8a008c07dab24eb6d1c182b6a82a1
+      internalID: 1694625193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_12
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 979
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64194f4687635b74cbe65e0d124beacd
+      internalID: 621283067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 863
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46c9b242c301f443a553c34ed8c0442
+      internalID: -1211156987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_14
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 863
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10cb0c7a9d7db34092df02ad333f0b5
+      internalID: -84194592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_15
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 615
+        width: 253
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfbe49b4eade01438c1d6c4b2900a80
+      internalID: -317974164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 787
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575d964d944f9604285854ec5ce55c1c
+      internalID: 1280029271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 812
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e5cd51db82ce419a6cf56bdd0b043
+      internalID: -71552060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 729
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37b398cdbc99e64dbc0fe87666cb4c2
+      internalID: 1157094822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 767
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfa1bdfc3324614aba8ea7661ef1327
+      internalID: 690115854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 669
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3664798e927b14faa12df6e030ca58
+      internalID: 113178141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 700
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef21c1013df8d984c83830d5a8b9b586
+      internalID: -578353773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 346
+        width: 246
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17391ae7d5930c24cb8dd00cd2c2839e
+      internalID: 1877552513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_23
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 466
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f377036dda6e54c9b39dde1afea579
+      internalID: 857069270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_24
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 491
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4026d45d138c11947a753d002d1f1ddb
+      internalID: -1596307460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_25
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 408
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6197475b44cf2e34ca2987dba815b003
+      internalID: -1856091732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_26
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 446
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6eff744a1ced344b51933533fb142b
+      internalID: -1457652791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_27
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 347
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4373788f3d0c03b4491423bdddfa23a0
+      internalID: -22453810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_28
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 378
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cb90707844bce45ba81354af1fc2b1
+      internalID: 950992148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 262
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16edfac0978e39459f2c8aba3a7f2b2
+      internalID: 953504441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 14
+        width: 253
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce15a8657137845ab407f64390af6f
+      internalID: 1298837649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_31
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 262
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a091cabc96a48418dd58df9aef5d74
+      internalID: 761546357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_32
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 14
+        width: 253
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7519cc5c90df056419302bbeadd7c69b
+      internalID: -1553573195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 186
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5456882807d9fd4d820847f0a2d0f45
+      internalID: -1341670619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 211
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3793bfb8f8b490478b24a5912d41430
+      internalID: -399846804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 128
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c533795b2ec64d84226203080b6c5
+      internalID: 1727143522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 166
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994df555e480c9541aba3816d1d39eaa
+      internalID: 518224843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bf61a30747fb24fa85cd89c3f76f10
+      internalID: 670645356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-boat-top-view-png-image_7166443_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 99
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529086b8fc1be3346867c0c18b9ac84b
+      internalID: -974130264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      pngtree-boat-top-view-png-image_7166443_0: 1320848028
+      pngtree-boat-top-view-png-image_7166443_1: 1975285097
+      pngtree-boat-top-view-png-image_7166443_10: 162859961
+      pngtree-boat-top-view-png-image_7166443_11: 1694625193
+      pngtree-boat-top-view-png-image_7166443_12: 621283067
+      pngtree-boat-top-view-png-image_7166443_13: -1211156987
+      pngtree-boat-top-view-png-image_7166443_14: -84194592
+      pngtree-boat-top-view-png-image_7166443_15: -317974164
+      pngtree-boat-top-view-png-image_7166443_16: 1280029271
+      pngtree-boat-top-view-png-image_7166443_17: -71552060
+      pngtree-boat-top-view-png-image_7166443_18: 1157094822
+      pngtree-boat-top-view-png-image_7166443_19: 690115854
+      pngtree-boat-top-view-png-image_7166443_2: 1481516372
+      pngtree-boat-top-view-png-image_7166443_20: 113178141
+      pngtree-boat-top-view-png-image_7166443_21: -578353773
+      pngtree-boat-top-view-png-image_7166443_22: 1877552513
+      pngtree-boat-top-view-png-image_7166443_23: 857069270
+      pngtree-boat-top-view-png-image_7166443_24: -1596307460
+      pngtree-boat-top-view-png-image_7166443_25: -1856091732
+      pngtree-boat-top-view-png-image_7166443_26: -1457652791
+      pngtree-boat-top-view-png-image_7166443_27: -22453810
+      pngtree-boat-top-view-png-image_7166443_28: 950992148
+      pngtree-boat-top-view-png-image_7166443_29: 953504441
+      pngtree-boat-top-view-png-image_7166443_3: -1395731215
+      pngtree-boat-top-view-png-image_7166443_30: 1298837649
+      pngtree-boat-top-view-png-image_7166443_31: 761546357
+      pngtree-boat-top-view-png-image_7166443_32: -1553573195
+      pngtree-boat-top-view-png-image_7166443_33: -1341670619
+      pngtree-boat-top-view-png-image_7166443_34: -399846804
+      pngtree-boat-top-view-png-image_7166443_35: 1727143522
+      pngtree-boat-top-view-png-image_7166443_36: 518224843
+      pngtree-boat-top-view-png-image_7166443_37: 670645356
+      pngtree-boat-top-view-png-image_7166443_38: -974130264
+      pngtree-boat-top-view-png-image_7166443_4: 1009701181
+      pngtree-boat-top-view-png-image_7166443_5: -1363165495
+      pngtree-boat-top-view-png-image_7166443_6: -1244187178
+      pngtree-boat-top-view-png-image_7166443_7: -1697556860
+      pngtree-boat-top-view-png-image_7166443_8: 1042137484
+      pngtree-boat-top-view-png-image_7166443_9: 567608627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
