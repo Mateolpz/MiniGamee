@@ -3,38 +3,35 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
     [Header("Objetivo")]
-    public Transform target; // el Player
+    public Transform target;
 
-    [Header("Posición relativa al jugador")]
-    public Vector3 offset = new Vector3(0f, 4f, -6f);
+    [Header("Posición de cámara")]
+    public Vector3 offset = new Vector3(0f, 3f, -6f);
+
+
+    
 
     [Header("Suavizado")]
-    public float smoothSpeed = 5f;
-    public float rotationSmooth = 3f;
+    public float smoothSpeed = 7f;
 
-    [Header("Rotación")]
-    public float lookDownAngle = 25f; // grados mirando hacia abajo
+    [Header("Rotación fija")]
+    public Vector3 fixedRotation = new Vector3(10f, 0f, 0f);
 
     void LateUpdate()
     {
         if (target == null) return;
 
-        // Posición deseada detrás y arriba del jugador
+        // Posición deseada detrás del jugador
         Vector3 desiredPos = target.position + offset;
 
-        // Suavizado de posición
+        // Movimiento suave
         transform.position = Vector3.Lerp(
             transform.position,
             desiredPos,
             smoothSpeed * Time.deltaTime
         );
 
-        // Mirar hacia el jugador con ángulo hacia abajo
-        Quaternion desiredRot = Quaternion.Euler(lookDownAngle, 0f, 0f);
-        transform.rotation = Quaternion.Lerp(
-            transform.rotation,
-            desiredRot,
-            rotationSmooth * Time.deltaTime
-        );
+        // Mantener ángulo cinematográfico fijo
+        transform.rotation = Quaternion.Euler(fixedRotation);
     }
 }
