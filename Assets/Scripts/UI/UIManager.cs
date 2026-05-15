@@ -28,11 +28,11 @@ public class UIManager : MonoBehaviour
 
     [Header("Mensajes positivos")]
     private string[] calmMessages = {
-        "¡Has encontrado tu calma! 🌊",
-        "¡Respira profundo, lo estás logrando! ✨",
-        "¡Mente clara, corazón tranquilo! 💙",
-        "¡Eres increíble, sigue así! 🌟",
-        "¡La calma es tu superpoder! 🦋"
+        "¡Has encontrado tu calma!",
+        "¡Respira profundo, lo estás logrando!",
+        "¡Mente clara, corazón tranquilo!",
+        "¡Eres increíble, sigue así!",
+        "¡La calma es tu superpoder!"
     };
 
     void Awake()
