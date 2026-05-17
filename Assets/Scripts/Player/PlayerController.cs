@@ -28,7 +28,24 @@ public class PlayerController : MonoBehaviour
         if (GameManager.Instance.isGameOver || GameManager.Instance.isPaused) return;
 
         // Input horizontal (A/D o flechas)
+#if UNITY_EDITOR || UNITY_STANDALONE
+
         horizontalInput = Input.GetAxisRaw("Horizontal");
+
+#else
+
+if (Input.touchCount > 0)
+{
+    Touch touch = Input.GetTouch(0);
+
+    horizontalInput = ((touch.position.x / Screen.width) * 2f) - 1f;
+}
+else
+{
+    horizontalInput = 0f;
+}
+
+#endif
 
         // Inclinación visual del barco
         float targetTilt = -horizontalInput * tiltAmount;
